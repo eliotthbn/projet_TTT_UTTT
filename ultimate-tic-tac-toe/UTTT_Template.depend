@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1777288070 source:c:\users\eliot\desktop\ecole_superieure\a3_inge_doc\semestre_2\poo - cc++\projet_ttt_uttt\ultimate-tic-tac-toe\main.cpp
+	<iostream>
+	"main.h"
+
+1777288070 c:\users\eliot\desktop\ecole_superieure\a3_inge_doc\semestre_2\poo - cc++\projet_ttt_uttt\ultimate-tic-tac-toe\main.h
+	<string>
+

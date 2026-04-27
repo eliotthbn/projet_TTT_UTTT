@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1777293320 source:c:\users\eliot\desktop\ecole_superieure\a3_inge_doc\semestre_2\poo - cc++\projet_ttt_uttt\tic-tac-toe\main.cpp
+	"main.h"
+	<iostream>
+	<vector>
+	<climits>
+
+1777290778 c:\users\eliot\desktop\ecole_superieure\a3_inge_doc\semestre_2\poo - cc++\projet_ttt_uttt\tic-tac-toe\main.h
+	<string>
+
