@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1777300463 source:c:\users\noahl\documents\esilv\ultimate\main.cpp
+	"main.h"
+	"Common.h"
+	"Move.h"
+	"Game.h"
+	"HeuristicPlayer.h"
+	<iostream>
+	<chrono>
+	<memory>
+
+1777299951 c:\users\noahl\documents\esilv\ultimate\main.h
+	<string>
+
+1777300460 c:\users\noahl\documents\esilv\ultimate\common.h
+
+1777300460 c:\users\noahl\documents\esilv\ultimate\move.h
+
+1777300460 c:\users\noahl\documents\esilv\ultimate\game.h
+	"Common.h"
+	"Move.h"
+	"SubBoard.h"
+	<array>
+	<vector>
+
+1777300460 c:\users\noahl\documents\esilv\ultimate\subboard.h
+	"Common.h"
+	<array>
+
+1777300460 c:\users\noahl\documents\esilv\ultimate\heuristicplayer.h
+	"IPlayer.h"
+
+1777300460 c:\users\noahl\documents\esilv\ultimate\iplayer.h
+	"Common.h"
+	"Move.h"
+	"Game.h"
+
+1777300460 source:c:\users\noahl\documents\esilv\ultimate\game.cpp
+	"Game.h"
+	<iostream>
+
+1777300460 source:c:\users\noahl\documents\esilv\ultimate\heuristicplayer.cpp
+	"HeuristicPlayer.h"
+	<algorithm>
+	<limits>
+
+1777300460 source:c:\users\noahl\documents\esilv\ultimate\subboard.cpp
+	"SubBoard.h"
+
