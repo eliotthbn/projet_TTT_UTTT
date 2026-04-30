@@ -47,3 +47,51 @@
 1777300460 source:c:\users\noahl\documents\esilv\ultimate\subboard.cpp
 	"SubBoard.h"
 
+1777382959 source:c:\users\eliot\desktop\ecole_superieure\a3_inge_doc\semestre_2\poo - cc++\projet_ttt_uttt\ultimate-tic-tac-toe\medium-1\game.cpp
+	"Game.h"
+	<iostream>
+
+1777382959 c:\users\eliot\desktop\ecole_superieure\a3_inge_doc\semestre_2\poo - cc++\projet_ttt_uttt\ultimate-tic-tac-toe\medium-1\game.h
+	"Common.h"
+	"Move.h"
+	"SubBoard.h"
+	<array>
+	<vector>
+
+1777382959 c:\users\eliot\desktop\ecole_superieure\a3_inge_doc\semestre_2\poo - cc++\projet_ttt_uttt\ultimate-tic-tac-toe\medium-1\common.h
+
+1777382959 c:\users\eliot\desktop\ecole_superieure\a3_inge_doc\semestre_2\poo - cc++\projet_ttt_uttt\ultimate-tic-tac-toe\medium-1\move.h
+
+1777382959 c:\users\eliot\desktop\ecole_superieure\a3_inge_doc\semestre_2\poo - cc++\projet_ttt_uttt\ultimate-tic-tac-toe\medium-1\subboard.h
+	"Common.h"
+	<array>
+
+1777382959 source:c:\users\eliot\desktop\ecole_superieure\a3_inge_doc\semestre_2\poo - cc++\projet_ttt_uttt\ultimate-tic-tac-toe\medium-1\heuristicplayer.cpp
+	"HeuristicPlayer.h"
+	<algorithm>
+	<limits>
+
+1777382959 c:\users\eliot\desktop\ecole_superieure\a3_inge_doc\semestre_2\poo - cc++\projet_ttt_uttt\ultimate-tic-tac-toe\medium-1\heuristicplayer.h
+	"IPlayer.h"
+
+1777382959 c:\users\eliot\desktop\ecole_superieure\a3_inge_doc\semestre_2\poo - cc++\projet_ttt_uttt\ultimate-tic-tac-toe\medium-1\iplayer.h
+	"Common.h"
+	"Move.h"
+	"Game.h"
+
+1777483516 source:c:\users\eliot\desktop\ecole_superieure\a3_inge_doc\semestre_2\poo - cc++\projet_ttt_uttt\ultimate-tic-tac-toe\medium-1\main.cpp
+	"main.h"
+	"Common.h"
+	"Move.h"
+	"Game.h"
+	"HeuristicPlayer.h"
+	<iostream>
+	<chrono>
+	<memory>
+
+1777382960 c:\users\eliot\desktop\ecole_superieure\a3_inge_doc\semestre_2\poo - cc++\projet_ttt_uttt\ultimate-tic-tac-toe\medium-1\main.h
+	<string>
+
+1777382959 source:c:\users\eliot\desktop\ecole_superieure\a3_inge_doc\semestre_2\poo - cc++\projet_ttt_uttt\ultimate-tic-tac-toe\medium-1\subboard.cpp
+	"SubBoard.h"
+
