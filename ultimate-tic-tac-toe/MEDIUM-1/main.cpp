@@ -28,7 +28,7 @@ int main()
     //  - Niveau MEDIUM_1 pour commencer (a augmenter une fois valide)
     //  - Mode DEBUG pour voir les logs (passer en ARENA pour valider)
     //  - alwaysPlayFirst = false : on joue en 2eme (ronds)
-    game.initialize(10, Level::MEDIUM_1, Mode::ARENA, false, "AlphaBeta_AI");
+    game.initialize(10, Level::MEDIUM_2, Mode::ARENA, false, "AlphaBeta_AI");
 
     // Notre joueur IA (profondeur 5 par defaut)
     std::unique_ptr<IPlayer> ia = std::make_unique<HeuristicPlayer>(5);
